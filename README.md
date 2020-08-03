@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=plastic)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 <!--
 **Popo1928/Popo1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
