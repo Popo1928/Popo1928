@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square&label=PROFILE+VIEWS)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square&label=PROFILE+VIEWS)
+<!--
 <p align="center">
 <img src="https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png" />
 <b>Leisurely exploring the software development world</b>
