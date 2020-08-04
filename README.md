@@ -1,7 +1,15 @@
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 <img src="https://github.com/Popo1928/Popo1928/blob/master/cover.gif" />
+
+This is the place where my shit's not private and am more than comfortable with it. :neckbeard:
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Flutter, AR & Adobe XD.
+- 💬 Ask me about anything related to C++, Dart & Unity.
+- 📫 How to reach me [@linkedIn](https://www.linkedin.com/in/shrishti-singh-40043b105/)
+- ⚡ Fun fact: I :heart: designing & programming both. I know its rare but not IMPOSSIBLE.
+
 
 # Things I enjoy doing .. :see_no_evil:
 
@@ -14,11 +22,17 @@
 
   :bicyclist:  riding bicycle without training wheels.<br>
   :last_quarter_moon_with_face:   going washroom at night.<br>
-  :page_with_curl:   maths theorems
+  :page_with_curl:   maths theorems <br>
+  :eyes:  coding in C.
   
 # Technology stacks I know ..  :computer:
 
 <img src="https://github.com/Popo1928/Popo1928/blob/master/technologies.PNG" />
+
+<br>
+<br>
+
+
 
 <!--
 <p align="center">
