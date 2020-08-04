@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS+⚡)
-
 <img src="https://github.com/Popo1928/Popo1928/blob/master/cover.gif" />
 
 This is the place where my shit's not private and am more than comfortable with it. :neckbeard:
@@ -31,6 +28,8 @@ This is the place where my shit's not private and am more than comfortable with 
 
 <br>
 <br>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS+⚡)
 
 
 
