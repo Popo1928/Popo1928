@@ -8,26 +8,35 @@ This is the place where my shit's not private.  :neckbeard:
 - ⚡ Fun fact: I :heart: designing & programming both. I know its rare but not IMPOSSIBLE.
 
 
-# Things I enjoy doing .. :see_no_evil:
+## Things I enjoy doing .. :see_no_evil:
 
   :iphone:  building apps with minimalist design with the Flutter framework.<br>
   :thought_balloon: pondering all the potential of using XR. <br>
   :heart: yummy, I love eating KFC fried chicken. <br> <img src="https://github.com/Popo1928/Popo1928/blob/master/kfc.gif" /> <br>
   :shit: wasting time in thinking why it's hard to do nothing. <br> <img src="https://github.com/Popo1928/Popo1928/blob/master/productivity_hero.gif" width="400" />
   
-# Things I fear the most .. :neutral_face: 
+## Things I fear the most .. :neutral_face: 
 
   :bicyclist:  riding bicycle without training wheels.<br>
   :last_quarter_moon_with_face:   going washroom at night.<br>
   :page_with_curl:   maths theorems <br>
   :eyes:  coding in C.
   
-# Technology stacks I know ..  :computer:
+## Technology stacks I know ..  :computer:
 
 <img src="https://github.com/Popo1928/Popo1928/blob/master/technologies.PNG" />
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS+⚡)
+## Let's connect!
 
+:handshake: To learn more about my journey, visit my LinkedIn [profile](https://www.linkedin.com/in/shrishti-singh-40043b105/), and let's connect. I'm always happy to chat with fellow developers.<br>
+:mailbox: Visit my Medium [profile](https://medium.com/@singhshrishti1997) page for other ways to  reach me.
+
+
+
+# Thanks for reading about me.
+<img src="https://github.com/Popo1928/Popo1928/blob/master/showSomeLove.gif" />
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS+⚡)
 
 
 <!--
@@ -83,11 +92,7 @@ These qualities make an excellent match for web development, which requires mast
 -  🦈 [Essential SQLAlchemy](https://www.amazon.com/s?k=essential+sqlalchemy&i=stripbooks&crid=2XVVALUOWYFOM&sprefix=essential+sql%2Cstripbooks%2C243&ref=nb_sb_ss_i_1_13) by [Jason Myers](https://www.linkedin.com/in/jasonamyers/) and [Rick Copeland](https://www.linkedin.com/in/rickcopeland/) covers everything you need to know about this useful library in less than 200 pages, including the SQLALchemy core, the SQLAlchemy ORM, Alembic, and a short cookbook.
 -  🐘 [Six-Step Relational Database Design](https://www.amazon.com/Six-Step-Relational-Database-Design-development/dp/1481942727/ref=sr_1_1?dchild=1&keywords=six+step+relational+database+design&qid=1587265197&sr=8-1) by [Fidel A. Captain](https://www.fidelcaptain.com/) is an excellent practical book.  It covers the entire database design process from studying the customer's requirements to design implementation.  To illustrate each design step, the author uses three case studies of different degrees of complexity.
 
-## Let's connect!
 
--   :handshake: To learn more about my journey, visit my LinkedIn [profile](https://www.linkedin.com/in/javierfeliu/), and let's connect. I'm always happy to chat with fellow developers.
--   :baby_chick: You may also get in touch via Twitter at [@JavierFeliuA](https://twitter.com/JavierFeliuA).
--   :mailbox: Visit my blog's [contact](https://wanderin.dev/contact/) page for other ways to  reach me.
 
 
 **Popo1928/Popo1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
