@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 <p align="center">
@@ -60,7 +61,7 @@ These qualities make an excellent match for web development, which requires mast
 -   :baby_chick: You may also get in touch via Twitter at [@JavierFeliuA](https://twitter.com/JavierFeliuA).
 -   :mailbox: Visit my blog's [contact](https://wanderin.dev/contact/) page for other ways to  reach me.
 
-<!--
+
 **Popo1928/Popo1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
