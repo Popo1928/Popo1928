@@ -1,6 +1,6 @@
 <img src="https://github.com/Popo1928/Popo1928/blob/master/cover.gif" />
 
-This is the place where my shit's not private and am more than comfortable with it. :neckbeard:
+This is the place where my shit's not private.  :neckbeard:
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Flutter, AR & Adobe XD.
 - 💬 Ask me about anything related to C++, Dart & Unity.
@@ -25,9 +25,6 @@ This is the place where my shit's not private and am more than comfortable with 
 # Technology stacks I know ..  :computer:
 
 <img src="https://github.com/Popo1928/Popo1928/blob/master/technologies.PNG" />
-
-<br>
-<br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS+⚡)
 
