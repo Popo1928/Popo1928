@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Popo1928/Popo1928/blob/master/cover.gif" />
 
-# :trollface: Things I fear the most
+# Things I fear the most   :neutral_face: 
 
 - riding bicycle without training wheels. 
 - going washroom at night.
