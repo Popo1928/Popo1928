@@ -3,11 +3,11 @@
 
 <img src="https://github.com/Popo1928/Popo1928/blob/master/cover.gif" />
 
-# Things I fear the most
+# :trollface: Things I fear the most
 
 - riding bicycle without training wheels. 
 - going washroom at night.
-- mathematics theorems
+- maths theorems
 
 <!--
 <p align="center">
