@@ -2,6 +2,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square&label=PROFILE+VIEWS)
+
+<img src="https://github.com/Popo1928/Popo1928/blob/master/cover.gif" />
 <!--
 <p align="center">
 <img src="https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png" />
