@@ -3,11 +3,15 @@
 
 <img src="https://github.com/Popo1928/Popo1928/blob/master/cover.gif" />
 
-# Things I fear the most   :neutral_face: 
+# Things I fear the most .. :neutral_face: 
 
-- riding bicycle without training wheels. 
-- going washroom at night.
-- maths theorems
+  :bicyclist:  riding bicycle without training wheels.<br>
+  :new_moon:   going washroom at night.<br>
+  :page_with_curl:   maths theorems
+
+# Technology stacks I know ..  :computer:
+
+<img src="https://github.com/Popo1928/Popo1928/blob/master/technologies.PNG" />
 
 <!--
 <p align="center">
