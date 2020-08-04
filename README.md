@@ -1,9 +1,14 @@
-### Hi there 👋
-
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 <img src="https://github.com/Popo1928/Popo1928/blob/master/cover.gif" />
+
+# Things I fear the most
+
+- riding bicycle without training wheels. 
+- going washroom at night.
+- mathematics theorems
+
 <!--
 <p align="center">
 <img src="https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png" />
