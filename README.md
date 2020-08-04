@@ -6,9 +6,16 @@
 # Things I fear the most .. :neutral_face: 
 
   :bicyclist:  riding bicycle without training wheels.<br>
-  :new_moon:   going washroom at night.<br>
+  :last_quarter_moon_with_face:   going washroom at night.<br>
   :page_with_curl:   maths theorems
 
+# Things I enjoy doing .. :see_no_evil:
+
+  :iphone:  building apps with minimalist design with the Flutter framework.<br>
+  :thought_balloon: pondering all the potential of using XR. <br>
+  :heart: yummy, I love eating KFC fried chicken. <br> <img src="https://github.com/Popo1928/Popo1928/blob/master/kfc.gif" /> <br>
+  :shit: wasting time in thinking why it's hard to do nothing. <br> <img src="https://github.com/Popo1928/Popo1928/blob/master/productivity_hero.gif" width="400" />
+  
 # Technology stacks I know ..  :computer:
 
 <img src="https://github.com/Popo1928/Popo1928/blob/master/technologies.PNG" />
